@@ -1,3 +1,0 @@
-gorilla
-monkey
-ape
